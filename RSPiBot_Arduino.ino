@@ -1,3 +1,4 @@
+//requerements the Adafruit_HMC5883 library and the Adafruit_Sensor library
 #define MAX_DATA_SIZE 10
 
 #define LOOKUP_TABLE_SIZE 11
